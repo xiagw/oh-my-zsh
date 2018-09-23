@@ -1,4 +1,5 @@
 # custom files
+.DS_Store
 custom/
 !custom/plugins/example
 !custom/example.zsh
